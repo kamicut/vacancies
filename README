@@ -1,0 +1,7 @@
+building vacancies map based on deck.gl
+
+## instructions
+```
+npm install
+npm start
+```
